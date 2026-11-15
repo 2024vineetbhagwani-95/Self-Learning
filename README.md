@@ -43,28 +43,4 @@ Each practical directory contains:
 
 ---
 
-## 🚀 How to Run and Test in JFLAP
 
-### Prerequisites
-- Java Runtime Environment (JRE 8 or above).
-- JFLAP `.jar` distribution.
-
-### Execution Steps
-1. Launch JFLAP:
-   ```bash
-   java -jar JFLAP.jar
-   ```
-2. Select **File → Open** and choose any `.jff` file from this repository.
-3. To test multiple strings, select **Input → Multiple Run**.
-4. Use the test vectors provided in the corresponding practical `README.md`.
-
----
-
-## 👨‍🎓 Author Information
-
-- **Student Name:** Vineet Bhagwani
-- **Roll Number:** 7
-- **Division / Batch:** D12A
-- **Department:** Computer Engineering, Vivekanand Education Society's Institute of Technology (VESIT)
-- **Course:** Theory of Computer Science (26CMPC51)
-- **Academic Year:** 2026 – 2027
