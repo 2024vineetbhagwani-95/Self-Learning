@@ -21,16 +21,16 @@ All `.jff` files follow the standard JFLAP XML format and are organized using th
 
 ## 📋 Master Practical Index & Verification Tracker
 
-| No. | Directory | Topic / Concept Covered | Primary JFLAP File(s) | Machine / Formal Type | Verification Status |
-|:---:|:---|:---|:---|:---:|:---:|
-| **01** | [`01_DFA`](./01_DFA/) | Deterministic Finite Automata (Binary Divisible by 3) | `7_Vineet_Bhagwani_DFA_15-11-2026.jff` | DFA | **Validated & Verified** |
-| **02** | [`02_NFA`](./02_NFA/) | Non-Deterministic Finite Automata (Contains `101`) | `7_Vineet_Bhagwani_NFA_15-11-2026.jff` | NFA | **Validated & Verified** |
-| **03** | [`03_NFA_to_DFA`](./03_NFA_to_DFA/) | NFA to DFA Subset Construction (Ends in `ab`) | `NFA_Source`, `DFA_Converted` | FA Conversion | **Validated & Verified** |
-| **04** | [`04_DFA_Minimization`](./04_DFA_Minimization/) | DFA Minimization using Equivalence Partitioning (Ends `01`) | `DFA_Original`, `DFA_Minimized` | FA Minimization | **Validated & Verified** |
-| **05** | [`05_RE_to_DFA`](./05_RE_to_DFA/) | Regular Expression to DFA Conversion (`(a+b)*abb`) | `RE`, `DFA_from_RE` | RE / FA | **Validated & Verified** |
-| **06** | [`06_DFA_to_Grammar`](./06_DFA_to_Grammar/) | DFA to Right-Linear Grammar Conversion (Starts 0, Ends 1) | `DFA_Source`, `Grammar_Converted` | FA → Grammar | **Validated & Verified** |
-| **07** | [`07_Mealy_Machine`](./07_Mealy_Machine/) | Mealy Machine (Sequence Detector for `101` with Overlap) | `7_Vineet_Bhagwani_Mealy_15-11-2026.jff` | Mealy Transducer | **Validated & Verified** |
-| **08** | [`08_Moore_Machine`](./08_Moore_Machine/) | Moore Machine (Binary Stream Residue Modulo 3 Evaluator) | `7_Vineet_Bhagwani_Moore_15-11-2026.jff` | Moore Transducer | **Validated & Verified** |
+| No. | Directory | Topic / Concept Covered | Primary JFLAP File(s) | Machine / Formal Type | 
+|:---:|:---|:---|:---|:---:|
+| **01** | [`01_DFA`](./01_DFA/) | Deterministic Finite Automata (Binary Divisible by 3) | `7_Vineet_Bhagwani_DFA_15-11-2026.jff` | DFA | 
+| **02** | [`02_NFA`](./02_NFA/) | Non-Deterministic Finite Automata (Contains `101`) | `7_Vineet_Bhagwani_NFA_15-11-2026.jff` | NFA | 
+| **03** | [`03_NFA_to_DFA`](./03_NFA_to_DFA/) | NFA to DFA Subset Construction (Ends in `ab`) | `NFA_Source`, `DFA_Converted` | FA Conversion | 
+| **04** | [`04_DFA_Minimization`](./04_DFA_Minimization/) | DFA Minimization using Equivalence Partitioning (Ends `01`) | `DFA_Original`, `DFA_Minimized` | FA Minimization | 
+| **05** | [`05_RE_to_DFA`](./05_RE_to_DFA/) | Regular Expression to DFA Conversion (`(a+b)*abb`) | `RE`, `DFA_from_RE` | RE / FA | 
+| **06** | [`06_DFA_to_Grammar`](./06_DFA_to_Grammar/) | DFA to Right-Linear Grammar Conversion (Starts 0, Ends 1) | `DFA_Source`, `Grammar_Converted` | FA → Grammar | 
+| **07** | [`07_Mealy_Machine`](./07_Mealy_Machine/) | Mealy Machine (Sequence Detector for `101` with Overlap) | `7_Vineet_Bhagwani_Mealy_15-11-2026.jff` | Mealy Transducer |
+| **08** | [`08_Moore_Machine`](./08_Moore_Machine/) | Moore Machine (Binary Stream Residue Modulo 3 Evaluator) | `7_Vineet_Bhagwani_Moore_15-11-2026.jff` | Moore Transducer | 
 
 ---
 
